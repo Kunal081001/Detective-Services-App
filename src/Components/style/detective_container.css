@@ -1,0 +1,29 @@
+.detective-container {
+    margin-top: 18px;
+    padding: 50px 0; /* Adjust the padding as needed */
+    padding: 50px;
+    border: 1px solid black;
+    border-radius: 20px;
+  }
+  
+  .detective-image {
+    border-radius: 8px;
+  }
+  
+  .description-col {
+    display: flex;
+    align-items: center;
+  }
+  
+  .description-content {
+    padding: 20px;
+  }
+  
+  .description-content h2 {
+    color: white; /* Adjust the color as needed */
+  }
+  
+  .description-content p {
+    font-size: 20px;
+    color: #000000; /* Adjust the color as needed */
+  }
